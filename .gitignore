@@ -1,0 +1,10 @@
+
+# Ignorar arquivos do Visual Studio
+.vs/
+bin/
+obj/
+*.csproj.user
+*.resx
+
+# Ignorar arquivos temporários ou backups
+*.Backup.tmp
