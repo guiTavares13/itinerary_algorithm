@@ -72,7 +72,4 @@ Feel free to open issues or submit pull requests with improvements!
 
 ## License
 This project is licensed under the MIT License (to be defined).
-### Notes
-- The repository URL (`https://github.com/guiTavares13/itinerary_algorithm.git`) was taken from your previous error message. Adjust it if it’s incorrect.
-- The content is now fully in English and formatted in Markdown with proper headings, code blocks, and structure.
-- If you’d like to add more sections (e.g., installation details, screenshots, or specific credits), let me know!
+
